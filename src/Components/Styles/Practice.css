@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh;
+    background-color: #2B4162;
+}
+
+.Display {
+    position: absolute;
+    margin-left: 85px;
+    margin-top: 25px;
+}
